@@ -37,4 +37,4 @@ user waits for the page to load
 
 //a[contains(text(),"Controller Configuration Guide") and @class='dynatree-title']
 
-COmmand 1 for Crome : dgggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+COmmand 1 for Crome : dggggggggggggggggggggggggggggggggggggggggggggggggggggggggsdffffffffffffffffffffffffffffffffffdsfffffffffffffffffffff
