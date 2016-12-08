@@ -1,6 +1,6 @@
 *** Settings ***
 Library  Selenium2Library
-Library  String
+Library  String fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
 *** Variables ***
 ${counter}  999999
